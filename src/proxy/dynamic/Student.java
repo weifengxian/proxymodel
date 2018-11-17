@@ -20,7 +20,7 @@ public class Student implements Person{
 	}
 	
 	public void dev(){
-		
+		System.out.println("Creating a new branch is quick AND simple.");
 	}
 	
 	public void abc(){
