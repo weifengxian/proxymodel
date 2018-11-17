@@ -18,4 +18,8 @@ public class Student implements Person{
 	public void sayAAA(boolean seeAgin, double time) {
 		System.out.println("ffffffffffffffff");
 	}
+	
+	public void dev(){
+		
+	}
 }
