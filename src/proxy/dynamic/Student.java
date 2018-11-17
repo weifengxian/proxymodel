@@ -26,4 +26,8 @@ public class Student implements Person{
 	public void abc(){
 		
 	}
+		
+	public void aaaa(){
+		
+	}
 }
